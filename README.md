@@ -1,6 +1,6 @@
 # 🚀 Primeiro Desafio – Microsoft Copilot Studio  
 
-![Copilot Studio](https://upload.wikimedia.org/wikipedia/commons/e/eb/Microsoft_365_Copilot_Icon.svg)  
+![Copilot Studio](https://abhishekdhoriya.com/wp-content/uploads/2024/06/microsoft-Copilot-Studio-Logo.webp)  
 
 🔹 **Repositório criado para compartilhar o desafio do curso Microsoft Copilot Studio**  
 
