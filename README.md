@@ -35,7 +35,7 @@ Para acessar o **Copilot Studio**, foi necessário criar uma conta no **Microsof
 📌 **Exemplo:** Um assistente virtual para atendimento ao cliente já vem com respostas para dúvidas frequentes sobre produtos e suporte técnico.  
 
 📷 _Imagem de modelos prontos no Copilot Studio_  
-![Copilot Templates](https://via.placeholder.com/600x300?text=Imagem+do+Copilot+Studio)  
+![Copilot Templates](https://github.com/Ewertonalex/copilot-studio-desafio-1/blob/main/prontos.png)  
 
 ---
 
@@ -48,7 +48,7 @@ Para acessar o **Copilot Studio**, foi necessário criar uma conta no **Microsof
 🎯 O Copilot gera um bot que pode buscar e organizar arquivos automaticamente!  
 
 📷 _Imagem da interface de criação com IA_  
-![AI Copilot](https://via.placeholder.com/600x300?text=Imagem+da+Criação+com+IA)  
+![AI Copilot](https://github.com/Ewertonalex/copilot-studio-desafio-1/blob/main/branco.png)  
 
 ---
 
@@ -60,7 +60,7 @@ Para acessar o **Copilot Studio**, foi necessário criar uma conta no **Microsof
 ✔ Adaptação para diferentes necessidades  
 
 📷 _Imagem da criação de um Copilot do zero_  
-![Custom Copilot](https://via.placeholder.com/600x300?text=Copilot+em+Branco)  
+![Custom Copilot](https://github.com/Ewertonalex/copilot-studio-desafio-1/blob/main/novo.png)  
 
 ---
 
