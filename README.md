@@ -23,7 +23,7 @@ Este repositório contém um resumo da minha experiência ao completar o **prime
 Para acessar o **Copilot Studio**, foi necessário criar uma conta no **Microsoft 365** e configurar os acessos.  
 
 📷 _Imagem da tela de login do Microsoft 365_  
-![Microsoft 365](https://upload.wikimedia.org/wikipedia/commons/4/40/Microsoft_365_%282022%29.svg)  
+![Microsoft 365](https://github.com/Ewertonalex/copilot-studio-desafio-1/blob/main/login.png)  
 
 ---
 
